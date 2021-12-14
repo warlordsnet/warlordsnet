@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/warlordsnet/warlordsnet/blob/main/images/newbg(1).png" />
+<img src="https://github.com/warlordsnet/warlordsnet/blob/main/images/warlordsbg.webp" />
 
 <p align="center">
  
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  __This is the official Github of Warlords Network__ 
+  
   🔰What is Warlord Community?     
    - ᴡᴀʀʟᴏʀᴅs ɪs ᴀɴ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴡʜɪᴄʜ ɪs ᴀ sᴇʀᴠɪᴄᴇ ᴘʀᴏᴠɪᴅɪɴɢ ɴᴇᴛᴡᴏʀᴋ ғᴏʀ ᴀɴɪᴍᴇ ʀᴇʟᴀᴛᴇᴅ sᴛᴜғғs ᴀᴄʀᴏss ᴅɪғғᴇʀᴇɴᴛ ᴘʟᴀᴛғᴏʀᴍs. ɪᴛ ɪs ᴀ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀᴅᴇ ғᴏʀ ᴛʜᴇ ᴜᴘʙʀɪɴɢɪɴɢ ᴏғ ᴀɴɪᴍᴇs ɪɴ ɪɴᴅɪᴀ ʟᴇɢᴀʟʟʏ ᴀɴᴅ sᴘʀᴇᴀᴅ ɪᴛ ᴀᴄʀᴏss ᴛʜᴇ ɢʟᴏʙᴇ.
 
@@ -29,17 +29,18 @@
 <h2 align="center">Technology Stack <img src="https://github.com/warlordsnet/warlordsnet/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Hugo-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Jkeyll-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -51,26 +52,26 @@
   
 <!-- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-warlordsnet-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:animemandir40@gmail.com"/>
+ <img src="https://img.shields.io/badge/-warlordsnet-c14438?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.me/teamwarlords"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.instagram.com/izumi_weebx/">
+ <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/izumi_weebx/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://twitter.com/AayushSatish">
+ <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AayushSatish"/>
 </a>
 </p>
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+ Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/warlordsnet/warlordsnet/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
 <br>
