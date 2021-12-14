@@ -50,11 +50,14 @@
 <p align="center">
   
 <!-- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-warlordsnet-c14438?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.me/teamwarlords"/>
+<a href="https://www.telegram.me/teamwarlords">
+ <img src="https://img.shields.io/badge/-warlordsnet-c14438?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/teamwarlords"/>
 </a>
 <a href="https://www.instagram.com/izumi_weebx/">
- <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/izumi_weebx/"/>
+ <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/izumi_weebx/"/>
+</a>
+ <a href="https://discord.gg/5CKXAUxhXB">
+ <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=discordlogoColor=white&link=https://discord.gg/5CKXAUxhXB"/>
 </a>
  <a href="https://twitter.com/AayushSatish">
  <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AayushSatish"/>
