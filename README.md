@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
 </p>
 
-<h2 align="center">(Warlords Official Website)[]</h2>
+<h2 align="center">Warlords Official Socials</h2>
 
 <p align="center">
   
