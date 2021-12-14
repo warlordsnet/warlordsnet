@@ -36,14 +36,13 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Hugo-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Jkeyll-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next"/>
+<img src="https://img.shields.io/badge/-Hugo-black?style=flat-square&logo=hugo"/>
+<img src="https://img.shields.io/badge/-Jkeyll-black?style=flat-square&logo=jkeyll"/>
+<img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=blogger"/>
+<img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
 </p>
 
 <h2 align="center">(Warlords Official Website)[]</h2>
