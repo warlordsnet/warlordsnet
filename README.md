@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/warlordsnet/warlordsnet/blob/main/images/warlordsbg.webp" />
+<img src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlordsbg.webp" />
 
 <p align="center">
  
