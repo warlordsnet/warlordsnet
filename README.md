@@ -1,8 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlordsbg.webp" />
-
+<img width="1000px" src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlordsbg.webp" />
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/warlordsnet/warlordsnet"/> 
@@ -26,7 +25,7 @@
  - ᴡᴇ ɴᴇᴇᴅ sᴜᴘᴘᴏʀᴛ ᴏғ ᴛʜᴇ ᴀɴɪᴍᴇ ᴠɪᴇᴡᴇʀs ᴛᴏ ᴋᴇᴇᴘ ᴜs ᴍᴏᴛɪᴠᴀᴛᴇᴅ ᴛᴏ ɪɴᴄʀᴇᴀsᴇ ᴏᴜʀ ᴀɴɪᴍᴇ sᴇʀᴠɪᴄᴇ ғᴏʀ ᴡᴇᴇʙs.  ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴍᴀᴋᴇs ᴜs ᴘᴜsʜ ᴏᴜʀsᴇʟᴠᴇs ᴀ sᴛᴇᴘ ғᴜʀᴛʜᴇʀ. ᴡᴇ ᴋɴᴏᴡ ᴏᴜʀ ᴅʀᴇᴀᴍ ᴏғ ʙʀɪɴɢɪɴɢ ᴀɴɪᴍᴇ ɪɴ ɪɴᴅɪᴀ ɪs sɪʟʟʏ ʙᴜᴛ ᴡʜᴀᴛ's ᴛʜᴇ ᴘᴏɪɴᴛ ᴏғ ɪᴛ, ɪғ ᴡᴇ ᴄᴀɴ'ᴛ ʙᴇʟɪᴇᴠᴇ ɪɴ ᴏᴜʀsᴇʟᴠᴇs. ᴡᴇ ᴡᴏɴ'ᴛ ɢɪᴠᴇ ᴜᴘ ᴏɴ ᴏᴜʀ ᴅʀᴇᴀᴍ. ʀᴇsᴛ ɪs ᴜᴘᴏɴ ʏᴏᴜ ɢᴜʏs, ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴏʀ ɴᴏᴛ.
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/warlordsnet/warlordsnet/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlords-logo.png" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
@@ -48,8 +47,6 @@
 <h2 align="center">Warlords Official Socials</h2>
 
 <p align="center">
-  
-<!-- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="https://www.telegram.me/teamwarlords">
  <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/teamwarlords"/>
 </a>
@@ -91,7 +88,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=warlordsnet&theme=redical">
 </p> 
 <hr>
-
+<img width="1000px" src="https://github.com/warlordsnet/warlordsnet/blob/main/img/anime-complex-1.jpg" />
 <!---
 warlordsnet/warlordsnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
