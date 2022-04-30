@@ -28,20 +28,21 @@
 <h2 align="center">Technology Stack <img src="https://github.com/warlordsnet/warlordsnet/blob/main/img/warlords-logo.png" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next"/>
+<img src="https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/-Hugo-black?style=flat-square&logo=hugo"/>
 <img src="https://img.shields.io/badge/-Jkeyll-black?style=flat-square&logo=jkeyll"/>
 <img src="https://img.shields.io/badge/-Blogger-black?style=flat-square&logo=blogger"/>
 <img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"/>
 </p>
 
 <h2 align="center">Warlords Official Socials</h2>
