@@ -89,7 +89,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=warlordsnet&theme=redical">
 </p> 
 <hr>
-<img width="1000px" src="https://github.com/warlordsnet/warlordsnet/blob/main/img/anime-complex-2.jpg" />
+<img width="1000px" src="https://github.com/warlordsnet/warlordsnet/blob/main/img/anime-complex-2.webp" />
 <!---
 warlordsnet/warlordsnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
