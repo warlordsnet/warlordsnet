@@ -43,25 +43,31 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"/>
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue"/>
 </p>
 
 <h2 align="center">Warlords Official Socials</h2>
 
-<p align="center">
+<div align="center">
 <a href="https://www.telegram.me/teamwarlords">
  <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/teamwarlords"/>
 </a>
-<a href="https://www.instagram.com/izumi_weebx/">
- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/izumi_weebx/"/>
+<a href="https://www.instagram.com/warlordsnetwork/">
+ <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/warlordsnetwork/"/>
 </a>
- <a href="https://discord.gg/5CKXAUxhXB">
- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=discordlogoColor=white&link=https://discord.gg/5CKXAUxhXB"/>
+<a href="https://www.facebook.com/warlordsnetwork/">
+ <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=facebooklogoColor=white&link=https://www.facebook.com/warlordsnetwork/"/>
 </a>
- <a href="https://twitter.com/AayushSatish">
- <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AayushSatish"/>
+ <a href="https://discord.gg/DFmyZzQdug">
+ <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=discordlogoColor=white&link=https://discord.gg/DFmyZzQdug"/>
 </a>
-</p>
-
+ <a href="https://www.reddit.com/r/warlordsnetwork/">
+ <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/r/warlordsnetwork/"/>
+</a>
+<a href="https://www.youtube.com/channel/UC5wP8x9mYgN_C5nGqN4lBeQ">
+ <img src="https://img.shields.io/badge/-warlordsnet-purple?style=flat-square&logo=youtue&logoColor=white&link=https://www.youtube.com/channel/UC5wP8x9mYgN_C5nGqN4lBeQ"/>
+</a>
+</div>
 
 <h2 align="center">
  Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
